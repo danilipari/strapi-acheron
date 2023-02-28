@@ -13,7 +13,8 @@
   "dependencies": {
     "@strapi/utils": "^4.7.0",
     "knex": "0.21.18",
-    "sqlite3": "5.0.0",
+    "pg": "^8.9.0",
+    "sqlite3": "^5.1.4",
     "strapi": "3.6.8",
     "strapi-admin": "3.6.8",
     "strapi-connector-bookshelf": "3.6.8",
